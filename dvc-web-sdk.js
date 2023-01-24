@@ -1,3 +1,4 @@
+//1.0.0
 class DvcSDK {
   constructor() {
     window.onfocus = () => {
